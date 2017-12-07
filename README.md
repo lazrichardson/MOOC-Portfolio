@@ -1,2 +1,2 @@
 # datascience
-Portfolio from Coursera JHU datascience class
+Portfolio from various datascience courses I've taken on Coursera
